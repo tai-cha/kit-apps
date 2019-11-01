@@ -1,0 +1,16 @@
+{
+    "id": "stopwatch",
+    "name": "ストップウォッチ",
+    "icon": "stopwatch.png",
+    "version": "0.2.0",
+    "author": "@taichan_v2",
+
+    "view": "stopwatch.html",
+    "script": "stopwatch.js",
+    "css": "stopwatch.css",
+
+    "support": {
+        "darkmode": true,
+        "fullscreen": false
+    }
+}

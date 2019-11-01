@@ -1,0 +1,26 @@
+.stopwatch {
+    min-width: 250px;
+}
+.stopwatch .hidden{
+    display: none;
+}
+.stopwatch .show {
+    font-size: 40pt;
+    text-align: center;
+    width: 100%;
+}
+
+.stopwatch .buttons {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.lap {
+    background-color: #C4CA00;
+}
+
+.reset {
+    background-color: #E40067;
+}

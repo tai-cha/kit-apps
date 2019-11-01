@@ -1,0 +1,16 @@
+{
+    "id": "timer",
+    "name": "タイマー",
+    "icon": "timer.png",
+    "version": "0.1.2",
+    "author": "@taichan_v2",
+
+    "view": "timer.html",
+    "script": "timer.js",
+    "css": "timer.css",
+
+    "support": {
+        "darkmode": true,
+        "fullscreen": false
+    }
+}

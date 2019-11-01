@@ -1,0 +1,49 @@
+.timer {
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* width:100%;
+    height: 100%; */
+}
+
+.timer .time {
+    font-size: 40px;
+}
+
+.timer .hidden {
+    display: none !important;
+}
+
+.timer .timer_set{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.timer .buttons {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.timer .reset {
+    display: flex;
+    background-color: #e40067;
+}
+
+.timer .continue {
+    display: flex;
+}
+
+.timer .stop {
+    display: flex;
+    width: 4em;
+    justify-content: center;
+}
+
+.time_input {
+    font-size: 50px;
+}
